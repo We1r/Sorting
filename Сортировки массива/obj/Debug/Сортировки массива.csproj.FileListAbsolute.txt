@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\bin\Debug\Сортировки массива.exe.config
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\bin\Debug\Сортировки массива.exe
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\bin\Debug\Сортировки массива.pdb
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки_массива.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.exe
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.pdb
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки_массива.Form1.resources
+C:\Users\ASUS\source\repos\Сортировки массива\Сортировки массива\obj\Debug\Сортировки массива.csproj.CopyComplete
